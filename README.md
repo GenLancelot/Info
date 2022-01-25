@@ -1,4 +1,7 @@
 # Info
-Mam na imię Konrad. Obecnie studiuję Informatykę na PK.
-Językiem programowania, który chciałbym rozwijać to C++.
-Obecnie jestem w trakcie tworzenia gry w Unreal Engine.
+
+My name is Konrad. 
+
+I am C++ developer.
+
+Currently I am focused at developing my skills in gamedev(UnrealEngine).
